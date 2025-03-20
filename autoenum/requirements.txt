@@ -1,4 +1,4 @@
-cat > requirements.txt << 'EOF'
+cat > requirements.txt <<EOF
 requests>=2.25.0
 beautifulsoup4>=4.9.3
 PySocks>=1.7.1
