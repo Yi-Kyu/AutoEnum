@@ -10,7 +10,7 @@ NC='\033[0m' # No Color
 
 echo -e "${BLUE}╔════════════════════════════════════════════════════════╗${NC}"
 echo -e "${BLUE}║                                                        ║${NC}"
-echo -e "${BLUE}║  ${GREEN}AutoEnum - Configuración Automática de Dependencias${BLUE}  ║${NC}"
+echo -e "${BLUE}║  ${GREEN}AutoEnum - Configuración Automática de Dependencias║${NC}"
 echo -e "${BLUE}║                                                        ║${NC}"
 echo -e "${BLUE}╚════════════════════════════════════════════════════════╝${NC}"
 echo ""
