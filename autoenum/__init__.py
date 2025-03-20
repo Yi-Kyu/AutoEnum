@@ -3,7 +3,7 @@ AutoEnum - Framework modular de escaneo y enumeración para pruebas de penetraci
 """
 
 __version__ = "1.0.0"
-__author__ = "AutoEnum Team"
+__author__ = "Yi kyu"
 __description__ = "Framework modular de escaneo y enumeración para pruebas de penetración"
 
 # Exportar clases/funciones principales para facilitar su importación
