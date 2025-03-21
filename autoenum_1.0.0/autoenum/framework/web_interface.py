@@ -15,6 +15,8 @@ from datetime import datetime
 from flask import Flask, render_template, request, jsonify, send_from_directory, redirect, url_for
 from werkzeug.utils import secure_filename
 
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 logger = logging.getLogger("AutoEnum.WebInterface")
 
 class WebInterface:
