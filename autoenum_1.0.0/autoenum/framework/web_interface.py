@@ -3,6 +3,7 @@
 Módulo de interfaz web para AutoEnum
 """
 
+import time
 import os
 import json
 import logging
