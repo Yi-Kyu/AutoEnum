@@ -10,7 +10,7 @@ import json
 import logging
 import threading
 import webbrowser
-from autoenum.framework.core import AutoEnumFramework
+from core import AutoEnumFramework
 from datetime import datetime
 from flask import Flask, render_template, request, jsonify, send_from_directory, redirect, url_for
 from werkzeug.utils import secure_filename
